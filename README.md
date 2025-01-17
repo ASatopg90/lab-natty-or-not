@@ -1,4 +1,4 @@
-# Título: Chamada comercial da Loja BabyJoyKids
+# Título: Ebook
 ## 📒 Descrição
 Elaboração de uma chamada de comercial de loja de roupa infantil, utilizando a imagem de um menino usando roupas da loja.
 
